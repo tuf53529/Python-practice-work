@@ -1,5 +1,5 @@
-# Example, do not modify!
+# Just testing division
 print(5 / 8)
 
-# Put code below here
+# Addition works too
 print(7 + 10)
