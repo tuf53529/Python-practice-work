@@ -1,5 +1,11 @@
 # Create a variable savings
 savings = 100
 
-# Print out savings
-print(savings)
+# Create a variable factor
+factor = 1.10
+
+# Calculate result
+result = savings * factor ** 7
+
+# Print out result
+print(result)
