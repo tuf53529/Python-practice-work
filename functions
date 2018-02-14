@@ -10,3 +10,15 @@ print(len(var1))
 
 # Convert var2 to an integer: out2
 out2 = int(var2)
+
+#---------
+# string to experiment with: room
+room = "poolhouse"
+
+# Use upper() on room: room_up
+room_up = room.upper()
+# Print out room and room_up
+print(room)
+print(room_up)
+# Print out the number of o's in room
+print(room.count("o"))
